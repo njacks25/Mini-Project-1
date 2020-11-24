@@ -1,5 +1,10 @@
 /******************************************************************************
 
+Matthew Divittorio, Nickolas Jackson
+11/23/20
+ELET 1102-001
+
+
 The following program will be used to calculate insurance cost based on wadge.
 
 *******************************************************************************/
